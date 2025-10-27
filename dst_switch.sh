@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-UHR_IP="192.168.50.161"
+UHR_IP="192.168.1.123"
 EMAIL="your@email.ch"  # Adjust
 SENDER="sender@email.ch"  # Adjust
 JQ=/usr/bin/jq
