@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# IT WONT WORK AS LONG AS THE CLOCK GOES OFFLINE
+
 # Variables
 UHR_IP="192.168.1.123"
 EMAIL="your@email.ch"  # Adjust
