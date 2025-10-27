@@ -1,5 +1,7 @@
 # DST Switch Script for WiFi Clock
 
+* THE SCRIPT WON'T WORK AS LONG AS THE CLOCK GOES OFFLINE *
+
 This Bash script automates the switching of Daylight Saving Time (DST) on a WiFi-enabled clock (e.g., Mondaine stop2go) via its web interface. It runs daily as a cronjob but only executes on the last Sunday of March (to summer time) and October (to standard time). It verifies the change and sends an email notification about success or failure using ssmtp.
 
 ## Features
